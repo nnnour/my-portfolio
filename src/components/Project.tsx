@@ -27,10 +27,10 @@ function Project() {
 
                 {/* ID8 */}
                 <div className="project">
-                    <a href="https://github.com/your-username/ID8" target="_blank" rel="noreferrer">
+                    <a href="https://id8.guru/auth/login" target="_blank" rel="noreferrer">
                         <img src={id8Img} className="zoom" alt="ID8" width="100%" />
                     </a>
-                    <a href="https://github.com/your-username/ID8" target="_blank" rel="noreferrer">
+                    <a href="https://id8.guru/auth/login" target="_blank" rel="noreferrer">
                         <h2>ID8</h2>
                     </a>
                     <p>Led the development of ID8, a platform enabling students to share capstone project ideas and receive feedback through a points-based system. Contributed as a frontend developer and conducted financial projections to support the business model.</p>
@@ -38,10 +38,10 @@ function Project() {
 
                 {/* Ween - AI-Powered Foodie Assistant */}
                 <div className="project">
-                    <a href="https://github.com/your-username/Ween" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/nnnour/Ween" target="_blank" rel="noreferrer">
                         <img src={weenImg} className="zoom" alt="Ween" width="100%" />
                     </a>
-                    <a href="https://github.com/your-username/Ween" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/nnnour/Ween" target="_blank" rel="noreferrer">
                         <h2>Ween: AI Foodie Assistant</h2>
                     </a>
                     <p>Developed Ween, an AI-powered chatbot that provides personalized restaurant recommendations based on user preferences and location. Built with React, OpenAI GPT API, Supabase, and Google Maps API for real-time location-based results.</p>
@@ -60,10 +60,10 @@ function Project() {
 
                 {/* Pacman Game */}
                 <div className="project">
-                    <a href="https://github.com/your-username/pacman-game" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/nnnour/Pacman" target="_blank" rel="noreferrer">
                         <img src={pacmanImg} className="zoom" alt="Pacman Game" width="100%" />
                     </a>
-                    <a href="https://github.com/your-username/pacman-game" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/nnnour/Pacman" target="_blank" rel="noreferrer">
                         <h2>Pacman Game</h2>
                     </a>
                     <p>Recreated the classic Pacman arcade game using HTML, CSS, and JavaScript. Features include intelligent ghost AI, power-ups, score tracking, and smooth animations for an engaging gameplay experience.</p>
