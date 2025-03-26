@@ -13,7 +13,7 @@ import todoappImg from '../assets/images/todoapp.png';
 function Project() {
     return (
         <div className="projects-container" id="projects">
-            <h1>Personal Projects</h1>
+            <h1>Software Engineering Works & Projects</h1>
 
             {/* AI-Focused Projects Section */}
             <div className="category-heading ai-category">

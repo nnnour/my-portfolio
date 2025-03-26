@@ -36,7 +36,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Math Instructor and Mentor</h3>
             <h4 className="vertical-timeline-element-subtitle">DesCartes Learning Club | San Francisco, CA</h4>
             <p>
-              Advanced Mathematics Instruction, Small-Group Teaching, Curriculum Customization, Critical Thinking Development, STEM Education
+              Advanced Mathematics Instruction, Curriculum Customization, Critical Thinking Development, STEM Education
             </p>
           </VerticalTimelineElement>
 
