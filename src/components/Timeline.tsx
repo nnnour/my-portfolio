@@ -16,14 +16,14 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="Oct 2024 – Present"
+            date="Jan 2025 – Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Software Engineering Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Onsite Payments | San Francisco, CA</h4>
+            <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Minerva University AI Lab | San Francisco, CA</h4>
             <p>
-              Full-stack Web Development, UX/UI Design, Frontend & Backend Development, Business Branding
+              Machine Learning Model Development, Neural Network Architecture, NLP Research, AI Algorithm Optimization, Data Pipeline Engineering
             </p>
           </VerticalTimelineElement>
 
@@ -37,6 +37,21 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">DesCartes Learning Club | San Francisco, CA</h4>
             <p>
               Advanced Mathematics Instruction, Curriculum Customization, Critical Thinking Development, STEM Education
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="Oct 2024 – Jan 2025"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Full-Stack Software Engineer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Onsite Payments | San Francisco, CA</h4>
+            <p>
+              Full-stack Web Development, UX/UI Design, Frontend & Backend Development, Business Branding
             </p>
           </VerticalTimelineElement>
 
@@ -75,7 +90,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Computer Sciences Curriculum Development Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Minerva University | San Francisco, CA</h4>
             <p>
-              Curriculum Development, Python-based Materials, Overleaf LaTex Integration, Course Optimization
+              Curriculum Development, Python-based Materials, SageMath Integration, Overleaf LaTex Integration, Course Optimization
             </p>
           </VerticalTimelineElement>
 
@@ -85,7 +100,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title"> Data Analyst Intern</h3>
+            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">HUGO BOSS | US Remote</h4>
             <p>
               Market Analysis, Consumer Research, Competitive Strategy, Data-driven Marketing
