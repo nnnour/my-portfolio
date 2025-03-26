@@ -29,7 +29,20 @@ function Timeline() {
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="Aug 2024 – Present"
+            date="Oct 2024 – Present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Math Instructor and Mentor</h3>
+            <h4 className="vertical-timeline-element-subtitle">DesCartes Learning Club | San Francisco, CA</h4>
+            <p>
+              Advanced Mathematics Instruction, Small-Group Teaching, Curriculum Customization, Critical Thinking Development, STEM Education
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="Aug 2024 – Nov 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
