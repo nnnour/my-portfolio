@@ -3,6 +3,7 @@ import '../assets/styles/Project.scss';
 
 // Import project images
 import tictactoeImg from '../assets/images/tictactoe.png';
+import connect4Img from '../assets/images/connect4.png';
 import id8Img from '../assets/images/ID8.png';
 import onsitePaymentsImg from '../assets/images/onsitepayments.png';
 import pacmanImg from '../assets/images/pacman.png';
@@ -73,6 +74,32 @@ function Project() {
                         </div>
                         <div className="project-links">
                             <a href="https://github.com/nnnour/AI_TicTacToe_4x4" target="_blank" rel="noreferrer" className="project-link github">
+                                GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                {/* Connect4 AI */}
+                <div className="project-card">
+                    <div className="project-image">
+                        <a href="https://github.com/nnnour/The-AI-Connect4" target="_blank" rel="noreferrer">
+                            <img src={connect4Img} alt="Connect4 AI Game" />
+                            <div className="project-overlay">
+                                <div className="view-project">View Project</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div className="project-content">
+                        <h3>Connect4 AI</h3>
+                        <p>Designed and built a modern Connect4 game with a Monte Carlo Tree Search AI opponent. Features include three difficulty levels, intelligent move selection, animated UI, and win-state detection. Built using Python and Tkinter with a focus on clean design and responsive gameplay.</p>
+                        <div className="project-tech">
+                            <span>Python</span>
+                            <span>MCTS</span>
+                            <span>Tkinter</span>
+                        </div>
+                        <div className="project-links">
+                            <a href="https://github.com/nnnour/The-AI-Connect4" target="_blank" rel="noreferrer" className="project-link github">
                                 GitHub
                             </a>
                         </div>
@@ -166,7 +193,6 @@ function Project() {
                         </div>
                     </div>
                 </div>
-                 
 
                 {/* Todo App */}
                 <div className="project-card">
@@ -193,7 +219,6 @@ function Project() {
                             <a href="https://www.loom.com/share/f9a243ded85a4c5f839672afc68b5172?sid=adbb5566-76fe-45f5-a1e1-9e4ea93d6583" target="_blank" rel="noreferrer" className="project-link demo">
                                 Watch Demo
                             </a>
-                        
                         </div>
                     </div>
                 </div>
@@ -220,11 +245,8 @@ function Project() {
                             <a href="https://github.com/nnnour/Pacman" target="_blank" rel="noreferrer" className="project-link github">
                                 GitHub
                             </a>
-                    
-                        
                         </div>
                     </div>
-                
                 </div>
             </div>
         </div>
